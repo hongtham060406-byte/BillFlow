@@ -46,7 +46,7 @@
 
 ```bash
 
-git clone \[https://github.com/](https://github.com/)\[Your\_Username]/BillFlow.git
+git clone \[https://github.com/](https://github.com/)\OT/BillFlow.git
 
 cd BillFlow
 
@@ -59,6 +59,7 @@ npx hardhat node
 \* \*\*Phạm Thị Hồng Thắm\*\* - Developer
 
 \* \*\*Nguyễn Anh Oanh\*\* - Designer
+
 
 
 
