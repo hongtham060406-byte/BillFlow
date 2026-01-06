@@ -1,0 +1,64 @@
+\# 💸 BillFlow - Decentralized Invoice Factoring Protocol
+
+
+
+> \*\*Unlock Cashflow for SMEs.\*\* Turn invoices into liquid capital instantly using Real World Assets (RWA) tokenization.
+
+
+
+---
+
+
+
+\## 📖 Introduction
+
+\*\*BillFlow\*\* solves the working capital problem for SMEs. Instead of waiting 30-90 days for customers to pay, businesses can tokenize invoices as NFTs and borrow stablecoins (USDT) instantly from a decentralized liquidity pool.
+
+
+
+\* \*\*Track:\*\* RWA / RealFi
+
+\* \*\*Hackathon:\*\* \[Điền Tên Cuộc Thi]
+
+
+
+\## 🚀 Key Features
+
+\* \*\*🧾 Invoice Tokenization:\*\* Mint invoices as ERC-721 NFTs.
+
+\* \*\*🏦 Lending Pool:\*\* Lenders supply USDT; Borrowers lock NFT to get loans.
+
+\* \*\*⚡ Instant Liquidity:\*\* Loan-to-Value (LTV) 70%. No paperwork.
+
+
+
+\## 🛠 Tech Stack
+
+\* \*\*Smart Contracts:\*\* Solidity, Hardhat.
+
+\* \*\*Frontend:\*\* Next.js, Tailwind CSS.
+
+\* \*\*Blockchain:\*\* Sepolia Testnet / Localhost.
+
+
+
+\## 📦 Installation
+
+```bash
+
+git clone \[https://github.com/](https://github.com/)\[Your\_Username]/BillFlow.git
+
+cd BillFlow
+
+npm install
+
+npx hardhat node
+
+\## 👥 Team
+
+\* \*\*Phạm Thị Hồng Thắm\*\* - Developer
+
+\* \*\*Nguyễn Anh Oanh\*\* - Designer
+
+
+
