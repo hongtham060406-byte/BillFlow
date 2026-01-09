@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e7f695ce-8297-4f41-83fa-48289dfd9da7" />💸 BillFlow - Decentralized Invoice Factoring Protocol
+💸 BillFlow - Decentralized Invoice Factoring Protocol
  
  Unlock Cashflow for SMEs.Turn invoices into liquid capital instantly using Real World Assets (RWA) tokenization.
 
@@ -50,6 +50,7 @@ npx hardhat node
 👥 Team
 Phạm Thị Hồng Thắm - Developer
 Nguyễn Anh Oanh - Designer
+
 
 
 
