@@ -43,11 +43,14 @@ BillFlow transforms traditional invoices into on-chain financial assets.
 
 ## 🔹 Architecture
 
-- ERC-721 Invoice NFT Contract  
-- Lending Pool Smart Contract  
-- Mock USDT Token  
-- Frontend Interface (Demo UI)  
-- Oracle-based Invoice Verification (Planned)
+### Core Components
+- ERC-721 Invoice NFT Contract
+- Lending Pool Smart Contract
+- Mock USDT Token
+- Frontend Interface (Demo UI)
+- Oracle-based Invoice Verification (Mock for MVP)
+### Roadmap
+- Replace mock oracle with decentralized oracle networks (e.g. Chainlink)
 
 ---
 
@@ -83,11 +86,11 @@ BillFlow applies a **risk-tiered lending model** instead of a fixed Loan-to-Valu
 ## 🔹 Risk Management & Default Handling
 
 BillFlow focuses on **risk transparency and control**, not risk elimination.
-
 ### Invoice Verification
-- Invoices are verified by **off-chain partners**  
-  (logistics providers, ERP systems, accounting platforms)
-- Verified invoice hashes are submitted on-chain via oracle
+Invoices are verified off-chain by trusted partners 
+(e.g. logistics providers, ERP systems, accounting platforms).  
+Verified invoice hashes are submitted on-chain via a mock oracle contract 
+for the MVP phase.
 
 ### Over-Collateralized Lending
 - Conservative LTV ratios provide safety buffers
@@ -157,6 +160,7 @@ Phạm Thị Hồng Thắm - Developer
 Nguyễn Anh Oanh - Designer
 
 Made with ❤️ by Team OT.
+
 
 
 
